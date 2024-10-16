@@ -8,7 +8,6 @@ def main():
     chars_sorted_list = chars_dict_to_sorted_list(char)
     
     print(f"--- Begin report of {book_path} ---")
-    #print(text) # may need to reactivate this for final
     print(f"{count_final} words found in the document")
     print()
 
